@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "Pornthep Preechayasomboon"
+description:        ""
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
-author:             "gfjaru"
+url:                "//prnthp.github.io"
+author:             "prnthp"
 twitter:
-  username:         "gfjaru"
+  username:         "mrjom"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -26,9 +26,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "//prnthp.github.io/about"
+  - name:           "Projects"
+    href:           "//prnthp.github.io"
 
 # Sass
 sass:
