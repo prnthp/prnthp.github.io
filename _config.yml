@@ -28,7 +28,9 @@ nav:
   - name:           "About"
     href:           "//prnthp.github.io/about"
   - name:           "Projects"
-    href:           "//prnthp.github.io"
+    href:           "//prnthp.github.io/projects"
+  - name:           "Ramblings"
+    href:           "//prnthp.github.io/ramblings"
 
 # My own shit
 rombokas:           "//faculty.washington.edu/rombokas/"
