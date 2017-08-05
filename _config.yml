@@ -30,6 +30,10 @@ nav:
   - name:           "Projects"
     href:           "//prnthp.github.io"
 
+# My own shit
+rombokas:           "//faculty.washington.edu/rombokas/"
+uw-logo:            "//www.washington.edu/brand/files/2014/10/Signature_Center_Purple_RGB.png"
+
 # Sass
 sass:
   style:            :compressed
