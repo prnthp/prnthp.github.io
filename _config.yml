@@ -25,12 +25,14 @@ markdown:           kramdown
 
 # Navigation
 nav:
+  - name:           "Home"
+    href:           "/"
   - name:           "About"
-    href:           "//prnthp.github.io/about"
+    href:           "/about"
   - name:           "Projects"
-    href:           "//prnthp.github.io/projects"
+    href:           "/projects"
   - name:           "Ramblings"
-    href:           "//prnthp.github.io/ramblings"
+    href:           "/ramblings"
 
 # My own shit
 rombokas:           "//faculty.washington.edu/rombokas/"
@@ -54,6 +56,3 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
-
-gems:
-  - jekyll-seo-tag
