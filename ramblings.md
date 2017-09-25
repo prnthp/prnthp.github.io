@@ -2,4 +2,23 @@
 title: Ramblings
 permalink: /ramblings/
 ---
-This here be me blog.
+<div class="content list">
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% else %}
+{% for post in site.posts %}
+  <div class="list-item">
+    <h2 class="list-post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <div class="list-post-date">
+      <time>{{ post.date | date_to_long_string }}</time>
+    </div>
+    <div class="content post">
+      {{ post.content }}
+    </div>
+  </div>
+  <hr>
+{% endfor %}
+{% endif %}
+</div>

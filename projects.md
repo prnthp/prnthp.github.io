@@ -4,7 +4,7 @@ permalink: /projects/
 ---
 ## Bishop's Hand
 
-*Made using: Unity, ROS, SteamVR, C#, C++, Shimmer GSR+, HTC Vive & Geomagic Phantom*
+*Made with: Unity, ROS, SteamVR, C#, C++, Shimmer GSR+, HTC Vive & Geomagic Phantom*
 
 A project that involves Virtual Reality and stabbing hands.
 ![VR Hand](/images/bishopshand.png)
@@ -13,7 +13,7 @@ A project that involves Virtual Reality and stabbing hands.
 
 ## Pneudraulique
 
-*Made using: SolidWorks, Matlab, NIDAQ, ROS & Teensyduino*
+*Made with: SolidWorks, Matlab, NIDAQ, ROS & Teensyduino*
 
 Peudraulique is a blanket term for adventures into the soft-robotics space. We're currently trying to use fluid filled volumes to become both actuators and sensors in the same embodiment.
 ![Soft finger concept](/images/pneudraulique.png)
@@ -22,7 +22,7 @@ Peudraulique is a blanket term for adventures into the soft-robotics space. We'r
 
 ## Scalpl
 
-*Made using: C++, CUDA-C, VB, SolidWorks & GLUI*
+*Made with: C++, CUDA-C, VB, SolidWorks & GLUI*
 
 A project for [Prof. Duane Storti](//www.me.washington.edu/people/faculty/duane_storti)'s [Voxel Modeling](//blogs.uw.edu/ceadvice/2015/11/17/voxel-modeling-introduction-to-applied-gpu-based-parallel-computing-course/) class. Scalpl is comprised of two separate pieces of software: 1) a SolidWorks plugin and 2) a CUDA accelerated voxel editor. The aim of the project is to prepare files for ingestion by a Stratasys Objet 3D printer in order to print voxels directly.
 
@@ -38,7 +38,7 @@ Additionally, Scalpl can modify exported voxels directly and create lattices or 
 
 ## Cobalt Chromium Femoral Heads
 
-*Made using: Okuma LB-3000 EX MYW, Catia, Blood, Sweat & Tears*
+*Made with: Okuma LB-3000 EX MYW, Catia, Blood, Sweat & Tears*
 
 A project under [Prof. Pairat Tangpornprasert](//www.researchgate.net/profile/Pairat_Tangpornprasert) & [Prof. Chanyaphan Virulsri](//www.researchgate.net/profile/Chanyaphan_Virulsri) of the Biomechanical Design and Manufacturing Laboratory, Thailand. One of the most arduous projects to date. The goal was to produce Cobalt Chromium femoral heads with sub 5-micron roundness using a traditional 4-axis CNC lathe. These femoral head implants are normally *ground* to shape. In my brief stint as a machinist, this project has taught me a lot on how to machine to extremely close tolerances. Despite that, I am nowhere near a true machinist, I highly respect them and the [work](//www.youtube.com/user/oxtoolco) that they do.
 
@@ -50,7 +50,7 @@ A project under [Prof. Pairat Tangpornprasert](//www.researchgate.net/profile/Pa
 
 ## Electric Prosthetic Hand with Slip Sensor
 
-*Made using: Mazak Integrex 200, Maxon, VB, C, Teensyduino, Smooth-on*
+*Made with: Mazak Integrex 200, Maxon Motors, VB, C, Teensyduino, Smooth-on PMC*
 
 A senior project with [Pongsakorn Laiwattanapaisan](//www.facebook.com/pongsakorn.laiwatthanapaisan) & [Possawat Munnitivorakul](//www.facebook.com/possawat.munnithivorakul).
 
