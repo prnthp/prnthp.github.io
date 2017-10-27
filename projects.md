@@ -4,7 +4,7 @@ permalink: /projects/
 ---
 ## Bishop's Hand
 
-*Made with: Unity, ROS, SteamVR, C#, C++, Shimmer GSR+, HTC Vive & Geomagic Phantom*
+*Made with: Unity, ROS, SteamVR, C#, C++, Shimmer GSR+, Oculus Rift & Geomagic Phantom*
 
 A project that involves Virtual Reality and stabbing hands.
 ![VR Hand](/images/bishopshand.png)
