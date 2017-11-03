@@ -43,4 +43,4 @@ I never got a Sensuator to work properly, although I do have a solid plan to get
 1. Food grade silicone takes about 4 hours to cure, but can be demolded after the first 40 minutes or so. (Depending on heat and ambient moisture)
 1. To get enclosed parts or multiple materials, add more silicone after the demold time, the silicone can hold its shape.
 1. Carbon fiber strands are extremely lightweight and can be breathed in quite easily.
-1. The carbon fiber strands act as a matrix to strengthen or toughen the silicone rubber, increasing the hardness significantly. This technique of using fibers in
+1. The carbon fiber strands act as a matrix to strengthen or toughen the silicone rubber, increasing the hardness significantly. The same technique, done with typical polymer fibers instead, is used to strengthen rubber.
