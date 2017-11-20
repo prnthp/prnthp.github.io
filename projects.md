@@ -6,8 +6,10 @@ permalink: /projects/
 
 *Made with: Unity, ROS, SteamVR, C#, C++, Shimmer GSR+, Oculus Rift & Geomagic Phantom*
 
-A project that involves Virtual Reality and stabbing hands.
+A project that involves Psychophysics, Virtual Reality and stabbing hands.
 ![VR Hand](/images/bishopshand.png)
+
+Pet project/Spin-off: [ROSCSereal](/ramblings/#ros)
 
 <hr>
 
