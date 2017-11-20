@@ -9,6 +9,9 @@ permalink: /projects/
 A project that involves Psychophysics, Virtual Reality and stabbing hands.
 ![VR Hand](/images/bishopshand.png)
 
+How much would you trust the robot your programmed? (BTW, this robot is animated from inside Unity!)
+![Stabby mcstabface](//j.gifs.com/YvW3B0.gif)
+
 Pet project/Spin-off: [ROSCSereal](/ramblings/#ros)
 
 <hr>
