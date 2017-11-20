@@ -23,6 +23,8 @@ Pet project/Spin-off: [ROSCSereal](/ramblings/#ros)
 Peudraulique is a blanket term for adventures into the soft-robotics space. We're currently trying to use fluid filled volumes to become both actuators and sensors in the same embodiment.
 ![Soft finger concept](/images/pneudraulique.png)
 
+See [blog](/ramblings) for updates!
+
 <hr>
 
 ## Scalpl
