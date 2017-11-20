@@ -52,6 +52,18 @@ A project under [Prof. Pairat Tangpornprasert](//www.researchgate.net/profile/Pa
 
 *Made with: Mazak Integrex 200, Maxon Motors, VB, C, Teensyduino, Smooth-on PMC*
 
+[Poster for Project](/media/handposter.pdf)
+
 A senior project with [Pongsakorn Laiwattanapaisan](//www.facebook.com/pongsakorn.laiwatthanapaisan) & [Possawat Munnitivorakul](//www.facebook.com/possawat.munnithivorakul).
 
 ![Electric Prosthetic Hand](/images/prosthetichand.png)
+
+Here's slow motion footage of our slip detection working on a 500g weighted glass jar:
+
+![Slip detection on glass](//j.gifs.com/N9L316.gif)
+
+And grasping jar with the slip detection turned off:
+![No slip detection on glass](//j.gifs.com/xvnKzr.gif)
+
+And yes it is delicate enough to handle an egg:
+![Egg!](/images/egg.jpg)
