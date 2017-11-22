@@ -9,10 +9,13 @@ permalink: /projects/
 A project that involves Psychophysics, Virtual Reality and stabbing hands.
 ![VR Hand](/images/bishopshand.png)
 
-How much would you trust the robot your programmed? (BTW, this robot is animated directly from Unity!)
+How much would you trust the robot you programmed? (BTW, this robot is animated directly from Unity!)
 ![Stabby mcstabface](//j.gifs.com/YvW3B0.gif)
 
-Pet project/Spin-off: [ROSCSereal](/ramblings/#ros)
+Pet project/Spin-off: **[ROSCSereal](/ramblings/#ros)**
+
+<iframe width="650" height="340" src="https://www.youtube.com/embed/fV_7ZzRXQIE" frameborder="0" gesture="media" allowfullscreen></iframe>
+*Recorded kinematic data from ROS being played back!*
 
 <hr>
 
@@ -31,13 +34,20 @@ See [blog](/ramblings) for updates!
 
 *Made with: C++, CUDA-C, VB, SolidWorks & GLUI*
 
+<iframe width="650" height="340" src="https://www.youtube.com/embed/5oqBlZqFfIU" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 A project for [Prof. Duane Storti](//www.me.washington.edu/people/faculty/duane_storti)'s [Voxel Modeling](//blogs.uw.edu/ceadvice/2015/11/17/voxel-modeling-introduction-to-applied-gpu-based-parallel-computing-course/) class. Scalpl is comprised of two separate pieces of software: 1) a SolidWorks plugin and 2) a CUDA accelerated voxel editor. The aim of the project is to prepare files for ingestion by a Stratasys Objet 3D printer in order to print voxels directly.
+
+![Slicing](/images/slicing.gif){:width="250px"}
+*Literal slicing in SolidWorks*
 
 ![Scalpl's UI](/images/scalpl2.PNG)
 
 Additionally, Scalpl can modify exported voxels directly and create lattices or porous volumes. Although by the end of the course Stratasys has yet to make voxel printing available to our lab, Scalpl is ready to be modified to support any format Stratasys wants.
 
 ![Scalpl's Voxel Editing](/images/scalpl3.PNG)
+![Results](/images/result1.gif){:width="250px"}
+*Voxels!*
 
 *PS: Fuck you SolidWorks API SDK*
 
