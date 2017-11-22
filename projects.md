@@ -79,7 +79,7 @@ Here's slow motion footage of our slip detection working on a 500g weighted glas
 
 ![Slip detection on glass](//j.gifs.com/N9L316.gif)
 
-And grasping jar with the slip detection turned off:
+And grasping a jar with the slip detection turned off:
 ![No slip detection on glass](//j.gifs.com/xvnKzr.gif)
 
 And yes it is delicate enough to handle an egg:
