@@ -17,7 +17,7 @@ Pornthep is pronounced *Pawn-Tep*. It is a Thai name that means "blessing from a
 
 **Background**
 
-Born in Thailand, I spent half of my childhood in the United States and the other half in Thailand. Then, after completing my Undergraduate degree in Mechanical Engineering at [Chulalongkorn University](//www.chula.ac.th/en/), I decided to pursue a Graduate degree in the United States.
+Born in Thailand, I spent half of my childhood in the United States and the other half in Thailand. Then, after completing my Undergraduate degree in Mechanical Engineering at [Chulalongkorn University](//www.chula.ac.th/en/), I decided to pursue a Ph.D. in the United States.
 
 **Branding**
 
