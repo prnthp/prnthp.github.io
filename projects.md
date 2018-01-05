@@ -84,3 +84,14 @@ And grasping a jar with the slip detection turned off:
 
 And yes it is delicate enough to handle an egg:
 ![Egg!](/images/egg.jpg)
+
+<hr>
+
+## Undergraduate CAD project
+
+*Made with: CATIA V5, Keyshot*
+
+Final project for CATIA class: Mazda 13B Rotary Engine
+![13B Shaft](/images/13b-shaft.png)
+![13B Engine](/images/13b-1.jpg)
+![13B Engine 2](/images/13b-2.jpg)
