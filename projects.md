@@ -49,7 +49,7 @@ Additionally, Scalpl can modify exported voxels directly and create lattices or 
 ![Results](/images/result1.gif){:width="250px"}
 *Voxels!*
 
-*PS: Fuck you SolidWorks API SDK*
+<!-- *PS: Fuck you SolidWorks API SDK* -->
 
 <hr>
 
@@ -61,7 +61,7 @@ A project under [Prof. Pairat Tangpornprasert](//www.researchgate.net/profile/Pa
 
 ![Cobalt Chromium Heads](/images/cocrheads.jpg)
 
-*PS: Fuck you Okuma's ADMAC-Parts*
+<!-- *PS: Fuck you Okuma's ADMAC-Parts* -->
 
 <hr>
 
