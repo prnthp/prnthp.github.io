@@ -2,6 +2,26 @@
 title: Projects
 permalink: /projects/
 ---
+## ConTact sensor
+
+*Made with: PlatSil-Gel 25, Chopped Carbon Fibers, ROS, LABView, NIDAQ*
+
+The ConTact sensor is my entry for the 2018 [soft robotics toolkit](https://softroboticstoolkit.com) competition for contribution to soft robotics research. It is part of Rombolab's Pneudraulique research theme.
+
+<iframe width="650" height="340" src="https://www.youtube.com/embed/XoLCroADij8" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+The ConTact Sensor is a force and contact area sensitive sensor developed at rombolabs at the University of Washington that can be easily integrated into most soft-robotics designs. Using the fluidic conductive medium already inherent in soft robots, the sensor can sense the force and size of an object pressing into it. The main sensing element is a conductive fluid core with conductive rubber leads and the force and size is derived by measuring the resistance and pressure changes of the fluid. The sensor is mostly fabricated from silicone rubber with minimal external components. This guide provides details on how the sensor works, how to fabricate the sensor and how the sensor was tested and validated.
+
+*The name ConTact is from the main principle of sensing: a Conductive fluid and the sensor itself being a Tactile sensor*
+
+Below are examples of raw sensor readings. When objects of different sizes are pressed against the sensor with the same amount of force, the sensor shows distinct responses for each object size.
+
+![Graphs](https://rombolabs.github.io/img/portfolio/contact-graphs.png)
+
+View the submission [here](https://sandbox.softroboticstoolkit.com/f2875f32)
+
+<hr>
+
 ## Bishop's Hand
 
 *Made with: Unity, ROS, SteamVR, C#, C++, Shimmer GSR+, Oculus Rift & Geomagic Phantom*
