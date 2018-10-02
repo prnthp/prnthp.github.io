@@ -6,6 +6,11 @@ permalink: /projects/
 
 *Made with: PlatSil-Gel 25, Chopped Carbon Fibers, ROS, LABView, NIDAQ*
 
+**Good News! We got a honorable mention from the competition!**
+
+**Published proudly on the Soft Robotics Toolkit [here](https://softroboticstoolkit.com/contact-sensor)**
+
+
 The ConTact sensor is my entry for the 2018 [soft robotics toolkit](https://softroboticstoolkit.com) competition for contribution to soft robotics research. It is part of Rombolab's Pneudraulique research theme.
 
 <iframe width="650" height="340" src="https://www.youtube.com/embed/XoLCroADij8" frameborder="0" gesture="media" allowfullscreen></iframe>
@@ -17,8 +22,6 @@ The ConTact Sensor is a force and contact area sensitive sensor developed at rom
 Below are examples of raw sensor readings. When objects of different sizes are pressed against the sensor with the same amount of force, the sensor shows distinct responses for each object size.
 
 ![Graphs](https://rombolabs.github.io/img/portfolio/contact-graphs.png)
-
-View the submission [here](https://sandbox.softroboticstoolkit.com/f2875f32)
 
 <hr>
 
