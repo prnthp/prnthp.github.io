@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Mechanical Engineer by education but really a mix between a programmer, mechatronics-er, machinist and game developer by trade. I am a Research Assistant working with [Prof. Eric Rombokas](//rombokas.com/eric/) as a part of my Master of Science in Mechanical Engineering degree, currently working on a project involving Virtual Reality and knife stabbing.
+I am a Mechanical Engineer by education but really a mix between a programmer, mechatronics-er, machinist and game developer by trade. I am a PhD student working with [Prof. Eric Rombokas](//rombokas.com/eric/), currently working on fabrication of soft robots and deep learning for soft robots.
 
 Please entertain your eyes with a picture of me:
 

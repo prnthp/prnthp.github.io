@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Pornthep Preechayasomboon"
+name:               "Jom (Pornthep) Preechayasomboon"
 description:        ""
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "//prnthp.github.io"
 author:             "prnthp"
 twitter:
-  username:         "mrjom"
+  username:         "prnthp"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -29,10 +29,10 @@ nav:
     href:           "/"
   - name:           "About"
     href:           "/about"
+  - name:           "Publications"
+    href:           "/publications"
   - name:           "Projects"
     href:           "/projects"
-  - name:           "Ramblings"
-    href:           "/ramblings"
 
 # My own shit
 rombokas:           "//faculty.washington.edu/rombokas/"

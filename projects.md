@@ -8,14 +8,15 @@ permalink: /projects/
 
 *Made with: DC Motors, Leadscrews, Oculus Quest, Unity, Teensy 4.0*
 
-Chasm was my primary internship project at [Facebook Reality Labs](https://research.fb.com/category/augmented-reality-virtual-reality/)!
+Chasm was my primary internship project at [Facebook Reality Labs](https://research.fb.com/category/augmented-reality-virtual-reality/)! Chasm is a miniature haptic actuator that can render shear forces and vibrations both independently and simultaneously through a single tactor. The underlying mechanism is as simple as it gets: a leadscrew coupled directly to a DC motor. I designed Chasm from the ground up, starting from the selection of the motor and leadscrew. We had to order custom leadscrews due to the unconventional usage! Underneath the leadscrew nut, there is an ams AS5311 magnetic linear encoder that lets me control the motor at 1000 Hz with sub micron accuracy. Chasm has a Teensy 3.5 (and later on, a Teensy 4.0) microcontroller running the closed-loop control. I also wrote a whole HID-based haptic interface so Chasm can be used with VR devices like the [Oculus Quest](https://oculus.com/quest). (also android phones, macOS, Windows, etc.) This means Chasm's firmware can communicate with the host device (the Quest) at an ideal 1 ms latency!
 
 ![Promo](/images/chasmPromo.png)
 
-![Demos](/images/penDemos_transparent.png)
-
 ![Marker](/images/chasmMarker.jpg)
+Here is Chasm in one of its many form-factors: the marker. The marker doesn't have any tracking so its tracked with Oculus Touch controller strapped to the user's hand. The strap alone is a marvel of accidental engineering - getting the controller to sit on the hand like that took so much fiddling around with how the strap loops around.
 
+![Demos](/images/penDemos_transparent.png)
+I also made a bunch of demos in Unity for Chasm that highlights how Chasm can render a wide range of modalities and bandwidth. It's hard to convey with pictures or a video, but the haptics are freakin' amazing! Even the simplest drawing demo, where Chasm renders a constant pressure when you press the pen against the board along with vibrations to simulate friction when you write, is extremely convincing.
 
 
 ## ConTact sensor
