@@ -2,6 +2,22 @@
 title: Projects
 permalink: /projects/
 ---
+## Chasm: A Screw Based Compact Haptic Actuator
+
+*Co-authors: Ali Israr, Majed Samad*
+
+*Made with: DC Motors, Leadscrews, Oculus Quest, Unity, Teensy 4.0*
+
+Chasm was my primary internship project at [Facebook Reality Labs](https://research.fb.com/category/augmented-reality-virtual-reality/)!
+
+![Promo](/images/chasmPromo.png)
+
+![Demos](/images/penDemos_transparent.png)
+
+![Marker](/images/chasmMarker.jpg)
+
+
+
 ## ConTact sensor
 
 *Made with: PlatSil-Gel 25, Chopped Carbon Fibers, ROS, LABView, NIDAQ*
