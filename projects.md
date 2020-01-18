@@ -8,24 +8,26 @@ permalink: /projects/
 
 *Made with: DC Motors, Leadscrews, Oculus Quest, Unity, Teensy 4.0*
 
-Chasm was my primary internship project at [Facebook Reality Labs](https://research.fb.com/category/augmented-reality-virtual-reality/)! Chasm is a miniature haptic actuator that can render shear forces and vibrations both independently and simultaneously through a single tactor. The underlying mechanism is as simple as it gets: a leadscrew coupled directly to a DC motor. I designed Chasm from the ground up, starting from the selection of the motor and leadscrew. We had to order custom leadscrews due to the unconventional usage! Underneath the leadscrew nut, there is an ams AS5311 magnetic linear encoder that lets me control the motor at 1000 Hz with sub micron accuracy. Chasm has a Teensy 3.5 (and later on, a Teensy 4.0) microcontroller running the closed-loop control. I also wrote a whole HID-based haptic interface so Chasm can be used with VR devices like the [Oculus Quest](https://oculus.com/quest). (also android phones, macOS, Windows, etc.) This means Chasm's firmware can communicate with the host device (the Quest) at an ideal 1 ms latency!
+Chasm was my primary internship project at [Facebook Reality Labs](https://research.fb.com/category/augmented-reality-virtual-reality/)! Chasm is a miniature haptic actuator that can render shear forces and vibrations both independently and simultaneously through a single tactor. Chasm can render constant shear forces up to 4.8 N at 3.4 mm and vibrations perceivable up to 170 Hz. The underlying mechanism is as simple as it gets: a leadscrew coupled directly to a DC motor. I designed and developed Chasm from the ground up, starting from the selection of the motor and leadscrew. We had to order custom leadscrews due to the unconventional usage! Underneath the leadscrew nut, there is an ams AS5311 magnetic linear encoder that lets me control the motor at 1000 Hz with sub micron accuracy. Chasm has a Teensy 3.5 (and later on, a Teensy 4.0) microcontroller running the closed-loop control. I also developed a whole HID-based haptic interface so Chasm can be used with VR devices like the [Oculus Quest](https://oculus.com/quest). (also android phones, macOS, Windows, etc.) This means Chasm's firmware can communicate with the host device (the Quest) at an ideal 1 ms latency!
 
 ![Promo](/images/chasmPromo.png)
 
 ![Marker](/images/chasmMarker.jpg)
-Here is Chasm in one of its many form-factors: the marker. The marker doesn't have any tracking so its tracked with Oculus Touch controller strapped to the user's hand. The strap alone is a marvel of accidental engineering - getting the controller to sit on the hand like that took so much fiddling around with how the strap loops around.
+Here is Chasm in one of its many form-factors: the marker. The user places their thumb on Chasm's tactor and together with VR, Chasm can render extremely convincing haptic illusions of texture, weight, stiffness and impact. The marker itself doesn't have any tracking so its tracked with Oculus Touch controller strapped to the user's hand. The strap alone is a marvel of accidental engineering - getting the controller to sit on the hand like that took so much fiddling around with how the strap loops around.
 
 ![Demos](/images/penDemos_transparent.png)
-I also made a bunch of demos in Unity for Chasm that highlights how Chasm can render a wide range of modalities and bandwidth. It's hard to convey with pictures or a video, but the haptics are freakin' amazing! Even the simplest drawing demo, where Chasm renders a constant pressure when you press the pen against the board along with vibrations to simulate friction when you write, is extremely convincing.
+I also made a bunch of demos in Unity for Chasm that highlight how Chasm can render a wide range of modalities and bandwidth. It's hard to convey with pictures or a video, but the haptics are freakin' amazing! Even the simplest drawing demo, where Chasm renders a constant pressure when you press the pen against the board along with vibrations to simulate friction when you write, is extremely convincing.
 
 
 ## ConTact sensor
 
 *Made with: PlatSil-Gel 25, Chopped Carbon Fibers, ROS, LABView, NIDAQ*
 
+**Full paper available [here](/publications)**
+
 **Good News! We got a honorable mention from the competition!**
 
-**Published proudly on the Soft Robotics Toolkit [here](https://softroboticstoolkit.com/contact-sensor)**
+**Published on the Soft Robotics Toolkit [here](https://softroboticstoolkit.com/contact-sensor)**
 
 
 The ConTact sensor is my entry for the 2018 [soft robotics toolkit](https://softroboticstoolkit.com) competition for contribution to soft robotics research. It is part of Rombolab's Pneudraulique research theme.
