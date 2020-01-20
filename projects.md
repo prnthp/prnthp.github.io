@@ -18,6 +18,23 @@ Here is Chasm in one of its many form-factors: the marker. The user places their
 ![Demos](/images/penDemos_transparent.png)
 I also made a bunch of demos in Unity for Chasm that highlight how Chasm can render a wide range of modalities and bandwidth. It's hard to convey with pictures or a video, but the haptics are freakin' amazing! Even the simplest drawing demo, where Chasm renders a constant pressure when you press the pen against the board along with vibrations to simulate friction when you write, is extremely convincing.
 
+<hr>
+
+## ovrseer
+
+*Made with: Unity, OculusSDK*
+
+![ovrseer preview](/images/ovrseer.png)
+
+**ovrseer** is a psychophysics experiment framework for Unity/VR that enables rapid prototyping for creating experiences. ovrseer has a finite-state-machine backbone that splits experiment into "Phases", multiple Phases into "Trials" and multiple Trials into "Blocks". Each Phase is a finite state that does something upon start (Enter()), during the game loop (tied to Unity's Update()) and at the end (OnExit()). Phases are often treated as events that change the behavior of things in the scene such as: showing a target, moving and object, start recording kinematic data, blindfold the subject, etc. . Trials, with their multiple Phases can then be repeated. And finally a chain of Trials make up a block. All of which is maintained using Unity's Scene Hierarchy, which means Phases can be drag-and-dropped, copy-pasted and moved around freely to rearrange their order.
+
+<iframe width="580" height="340" src="https://www.youtube.com/embed/XVP5OJemTsg" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+ovrseer also has built-in recording capabilities for saving kinematic data (tracked controllers) and experiment logs.
+
+<iframe width="580" height="340" src="https://www.youtube.com/embed/fV_7ZzRXQIE" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+<hr>
 
 ## ConTact sensor
 
@@ -32,7 +49,7 @@ I also made a bunch of demos in Unity for Chasm that highlight how Chasm can ren
 
 The ConTact sensor is my entry for the 2018 [soft robotics toolkit](https://softroboticstoolkit.com) competition for contribution to soft robotics research. It is part of Rombolab's Pneudraulique research theme.
 
-<iframe width="650" height="340" src="https://www.youtube.com/embed/XoLCroADij8" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="580" height="340" src="https://www.youtube.com/embed/XoLCroADij8" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 The ConTact Sensor is a force and contact area sensitive sensor developed at rombolabs at the University of Washington that can be easily integrated into most soft-robotics designs. Using the fluidic conductive medium already inherent in soft robots, the sensor can sense the force and size of an object pressing into it. The main sensing element is a conductive fluid core with conductive rubber leads and the force and size is derived by measuring the resistance and pressure changes of the fluid. The sensor is mostly fabricated from silicone rubber with minimal external components. This guide provides details on how the sensor works, how to fabricate the sensor and how the sensor was tested and validated.
 
@@ -54,11 +71,6 @@ A project that involves Psychophysics, Virtual Reality and stabbing hands.
 How much would you trust the robot you programmed? (This robot is animated directly from Unity!)
 ![Stabby mcstabface](//j.gifs.com/YvW3B0.gif)
 
-Pet project/Spin-off: **[ROSCSereal](/ramblings/#ros)**
-
-<iframe width="650" height="340" src="https://www.youtube.com/embed/fV_7ZzRXQIE" frameborder="0" gesture="media" allowfullscreen></iframe>
-*Recorded kinematic data from ROS being played back!*
-
 <hr>
 
 ## Pneudraulique
@@ -76,7 +88,7 @@ See [blog](/ramblings) for updates!
 
 *Made with: C++, CUDA-C, VB, SolidWorks & GLUI*
 
-<iframe width="650" height="340" src="https://www.youtube.com/embed/5oqBlZqFfIU" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="580" height="340" src="https://www.youtube.com/embed/5oqBlZqFfIU" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 A project for [Prof. Duane Storti](//www.me.washington.edu/people/faculty/duane_storti)'s [Voxel Modeling](//blogs.uw.edu/ceadvice/2015/11/17/voxel-modeling-introduction-to-applied-gpu-based-parallel-computing-course/) class. Scalpl is comprised of two separate pieces of software: 1) a SolidWorks plugin and 2) a CUDA accelerated voxel editor. The aim of the project is to prepare files for ingestion by a Stratasys Objet 3D printer in order to print voxels directly.
 
@@ -114,6 +126,8 @@ A project under [Prof. Pairat Tangpornprasert](//www.researchgate.net/profile/Pa
 [Poster for Project](/media/handposter.pdf)
 
 A senior project with [Pongsakorn Laiwattanapaisan](//www.facebook.com/pongsakorn.laiwatthanapaisan) & [Possawat Munnitivorakul](//www.facebook.com/possawat.munnithivorakul).
+
+We designed, programmed, CNC-machined almost *every single part* aside from the motor and gearbox, ourselves.
 
 ![Electric Prosthetic Hand](/images/prosthetichand.png)
 

@@ -20,7 +20,7 @@ html {
   line-height: 1.6;
   overflow-y: scroll;
 
-  @media (min-width: 38em) {
+  @media (min-width: 38rem) {
     font-size: 16px;
   }
 }
@@ -237,7 +237,7 @@ pre code {
 
 img {
   display: block;
-  max-width: 85%;
+  max-width: 100%;
   margin: 1rem 0 0;
   border-radius: 10px;
 
@@ -266,7 +266,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .container {
-  max-width: 42rem;
+  max-width: 600px;
   padding: 2rem 1.5rem;
   margin-left:  auto;
   margin-right: auto;
