@@ -1,1 +1,1 @@
-Theme modified from [Kiko](https://github.com/gfjaru/Kiko/)
+[prnthp.gitub.io](//prnthp.github.io)
