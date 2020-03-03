@@ -4,9 +4,9 @@ permalink: /publications/
 ---
 
 In semi-chronological order from newest to oldest
-1. **Negshell casting: 3D-printed structured and sacrificial cores for soft robot fabrication** PLOS ONE Soft Robotics *(In Review)* [Preprint](//engrxiv.org/jph63/) [Website](//negshell.github.io/)
+1. **Negshell casting: 3D-printed structured and sacrificial cores for soft robot fabrication** PLOS ONE Soft Robotics *(In Review)* [Preprint](//engrxiv.org/jph63/), [Website](//negshell.github.io/)
   <br> *Pornthep Preechayasomboon and Eric Rombokas*
-1. **Chasm: A Screw Based Compact Haptic Actuator** CHI2020 Papers, Hawaii, USA *(24.3% Acceptance Rate)* [Project Page](/projects) [CHI2020 Schedule](//programs.sigchi.org/chi/2020/program/content/31889)
+1. **Chasm: A Screw Based Compact Haptic Actuator** CHI2020 Papers, Hawaii, USA *(24.3% Acceptance Rate)* [Project Page](/projects), [CHI2020 Schedule](//programs.sigchi.org/chi/2020/program/content/31889), [Full Paper](https://research.fb.com/wp-content/uploads/2020/02/Chasm-A-Screw-Based-Expressive-Compact-Haptic-Actuator.pdf?)
   <br> *Pornthep Preechayasomboon, Ali Israr and Majed Samad*
 1. **Crossing the Chasm: Linking with the Virtual World through a Compact Haptic Actuator** CHI2020 Interactivity, Hawaii, USA *(Accepted)* [CHI2020 Schedule](//programs.sigchi.org/chi/2020/program/content/35838)
   <br> *Pornthep Preechayasomboon and Ali Israr*
