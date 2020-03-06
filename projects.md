@@ -8,6 +8,8 @@ permalink: /projects/
 
 *Made with: DC Motors, Leadscrews, Oculus Quest, Unity, Teensy 4.0*
 
+**Chasm has received an 🏆Honorable Mention Award (Top 5%)!**
+
 [Full Paper](https://research.fb.com/wp-content/uploads/2020/02/Chasm-A-Screw-Based-Expressive-Compact-Haptic-Actuator.pdf?)
 
 Chasm was my primary internship project at [Facebook Reality Labs](https://research.fb.com/category/augmented-reality-virtual-reality/)! Chasm is a miniature haptic actuator that can render shear forces and vibrations both independently and simultaneously through a single tactor. Chasm can render constant shear forces up to 4.8 N at 3.4 mm and vibrations perceivable up to 170 Hz. The underlying mechanism is as simple as it gets: a leadscrew coupled directly to a DC motor. I designed and developed Chasm from the ground up, starting from the selection of the motor and leadscrew. We had to order custom leadscrews due to the unconventional usage! Underneath the leadscrew nut, there is an ams AS5311 magnetic linear encoder that lets me control the motor at 1000 Hz with sub micron accuracy. Chasm has a Teensy 3.5 (and later on, a Teensy 4.0) microcontroller running the closed-loop control. I also developed a whole HID-based haptic interface so Chasm can be used with VR devices like the [Oculus Quest](https://oculus.com/quest). (also android phones, macOS, Windows, etc.) This means Chasm's firmware can communicate with the host device (the Quest) at an ideal 1 ms latency!
