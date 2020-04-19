@@ -9,7 +9,7 @@ In semi-chronological order from newest to oldest
   <br> *Pornthep Preechayasomboon and Eric Rombokas*
   <br><br>
 1. **Chasm: A Screw Based Compact Haptic Actuator** CHI2020 Papers, Hawaii, USA *(24.3% Acceptance Rate)*
-  <br> [Project Page](/projects), [CHI2020 Schedule](//programs.sigchi.org/chi/2020/program/content/31889), [Full Paper](https://research.fb.com/wp-content/uploads/2020/02/Chasm-A-Screw-Based-Expressive-Compact-Haptic-Actuator.pdf?)
+  <br> [Project Page](/projects), [CHI2020 Schedule](//programs.sigchi.org/chi/2020/program/content/31889), [Full Paper](https://research.fb.com/wp-content/uploads/2020/02/Chasm-A-Screw-Based-Expressive-Compact-Haptic-Actuator.pdf?), **[Video](//www.youtube.com/watch?v=kqBE4JDJ7QI)**
   <br> 🏆Honorable Mention Award (Top 5%)
   <br> *Pornthep Preechayasomboon, Ali Israr and Majed Samad*
   <br><br>
