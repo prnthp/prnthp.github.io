@@ -4,12 +4,12 @@ permalink: /publications/
 ---
 
 In semi-chronological order from newest to oldest
-1. **Negshell casting: 3D-printed structured and sacrificial cores for soft robot fabrication** PLOS ONE Soft Robotics *(In Review)*
-  <br> [Preprint](//engrxiv.org/jph63/), [Website](//negshell.github.io/)
+1. **Negshell casting: 3D-printed structured and sacrificial cores for soft robot fabrication** PLOS ONE
+  <br> [Full Paper](//journals.plos.org/plosone/article?id=10.1371/journal.pone.0234354), [Website](//negshell.github.io/)
   <br> *Pornthep Preechayasomboon and Eric Rombokas*
   <br><br>
 1. **Chasm: A Screw Based Compact Haptic Actuator** CHI2020 Papers, Hawaii, USA *(24.3% Acceptance Rate)*
-  <br> [Project Page](/projects), [CHI2020 Schedule](//programs.sigchi.org/chi/2020/program/content/31889), [Full Paper](https://research.fb.com/wp-content/uploads/2020/02/Chasm-A-Screw-Based-Expressive-Compact-Haptic-Actuator.pdf?), **[Video](//www.youtube.com/watch?v=kqBE4JDJ7QI)**
+  <br> [Project Page](/projects), [Full Paper](https://research.fb.com/wp-content/uploads/2020/02/Chasm-A-Screw-Based-Expressive-Compact-Haptic-Actuator.pdf?), **[Video](//www.youtube.com/watch?v=kqBE4JDJ7QI)**, **[Talk](//www.youtube.com/watch?v=7Zb1cZz5EH4)**
   <br> 🏆Honorable Mention Award (Top 5%)
   <br> *Pornthep Preechayasomboon, Ali Israr and Majed Samad*
   <br><br>
