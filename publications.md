@@ -26,7 +26,7 @@ In semi-chronological order from newest to oldest
   <br> *Pornthep Preechayasomboon and Ali Israr*
   <br><br>
 1. **ConTact Sensors: A Tactile Sensor Readily Integrable into Soft Robots**  RoboSoft 2019, Korea
-  <br> [Full Paper](https://rombolabs.github.io/publications/preechayasomboon2019.pdf), [Video](https://drive.google.com/file/d/1AsIchABlllOfOb49Nzs3m35tLQZD-HJZ/view?usp=sharing)
+  <br> [Full Paper](//rombolabs.github.io/publications/contact-preechayasomboon-2019.pdf), [Video](https://drive.google.com/file/d/1AsIchABlllOfOb49Nzs3m35tLQZD-HJZ/view?usp=sharing)
   <br> *University of Washington*
   <br> *Pornthep Preechayasomboon and Eric Rombokas*
   <br><br>
