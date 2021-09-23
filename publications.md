@@ -4,6 +4,11 @@ permalink: /publications/
 ---
 
 In semi-chronological order from newest to oldest
+1. **Haplets: Finger-Worn Wireless and Low-Encumbrance Vibrotactile Haptic Feedback for Virtual and Augmented Reality** Frontiers in Virtual Reality
+  <br> [Full Paper](//www.frontiersin.org/articles/10.3389/frvir.2021.738613/full), [PDF](//www.frontiersin.org/articles/10.3389/frvir.2021.738613/pdf), [Supplementary Video](//ndownloader.figstatic.com/files/30819115)
+  <br> *University of Washington*
+  <br> *Pornthep Preechayasomboon and Eric Rombokas*
+  <br><br>
 1. **Sensuator: A Hybrid Sensor–Actuator Approach to Soft Robotic Proprioception Using Recurrent Neural Networks** Actuators (MDPI)
   <br> [Full Paper](//www.mdpi.com/2076-0825/10/2/30), [Supplementary Materials](//sensuator.github.io/)
   <br> *University of Washington*
