@@ -20,13 +20,13 @@ In semi-chronological order from newest to oldest
   <br> *Pornthep Preechayasomboon and Eric Rombokas*
   <br><br>
 1. **Chasm: A Screw Based Compact Haptic Actuator** CHI2020 Papers, Hawaii, USA *(24.3% Acceptance Rate)*
-  <br> [Project Page](/projects), [Full Paper](//research.fb.com/publications/chasm-a-screw-based-expressive-compact-haptic-actuator/), **[Video](//www.youtube.com/watch?v=kqBE4JDJ7QI)**, **[Talk](//www.youtube.com/watch?v=7Zb1cZz5EH4)**
+  <br> [Project Page](/projects), [Full Paper](//research.facebook.com/publications/chasm-a-screw-based-expressive-compact-haptic-actuator/), **[Video](//www.youtube.com/watch?v=kqBE4JDJ7QI)**, **[Talk](//www.youtube.com/watch?v=7Zb1cZz5EH4)**
   <br> 🏆Honorable Mention Award (Top 5%)
   <br> *Facebook Reality Labs Research*
   <br> *Pornthep Preechayasomboon, Ali Israr and Majed Samad*
   <br><br>
 1. **Crossing the Chasm: Linking with the Virtual World through a Compact Haptic Actuator** CHI2020 Interactivity, Hawaii, USA *(Accepted)*
-  <br> [Demo Paper](//research.fb.com/publications/crossing-the-chasm-linking-with-the-virtual-world-through-a-compact-haptic-actuator/)
+  <br> [Demo Paper](//research.facebook.com/publications/crossing-the-chasm-linking-with-the-virtual-world-through-a-compact-haptic-actuator/)
   <br> *Facebook Reality Labs Research*
   <br> *Pornthep Preechayasomboon and Ali Israr*
   <br><br>
