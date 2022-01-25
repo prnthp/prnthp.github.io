@@ -27,13 +27,13 @@ markdown:           kramdown
 nav:
   - name:           "Home"
     href:           "/"
-  - name:           "About"
+  - name:           "👋About"
     href:           "/about"
-  - name:           "Publications"
+  - name:           "📚Publications"
     href:           "/publications"
-  - name:           "Projects"
+  - name:           "🧰Projects"
     href:           "/projects"
-  - name:           "Résumé"
+  - name:           "📄Résumé"
     href:           "/media/Jom Resume.pdf"
 
 # My own shit
