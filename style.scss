@@ -30,7 +30,7 @@ body {
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
-  text-align: justify;
+  // text-align: justify;
 }
 
 a {
@@ -189,8 +189,8 @@ pre {
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
-  word-break: break-all;
-  // word-wrap: break-word;
+  // word-break: break-all;
+  word-wrap: break-word;
   background-color: #f9f9f9;
 }
 
