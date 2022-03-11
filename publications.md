@@ -25,7 +25,7 @@ In semi-chronological order from newest to oldest
   <br> *Facebook Reality Labs Research*
   <br> *Pornthep Preechayasomboon, Ali Israr and Majed Samad*
   <br><br>
-1. **Crossing the Chasm: Linking with the Virtual World through a Compact Haptic Actuator** CHI2020 Interactivity, Hawaii, USA *(Accepted)*
+1. **Crossing the Chasm: Linking with the Virtual World through a Compact Haptic Actuator** CHI2020 Interactivity, Hawaii, USA
   <br> [Demo Paper](//research.facebook.com/publications/crossing-the-chasm-linking-with-the-virtual-world-through-a-compact-haptic-actuator/)
   <br> *Facebook Reality Labs Research*
   <br> *Pornthep Preechayasomboon and Ali Israr*

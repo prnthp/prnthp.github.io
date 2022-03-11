@@ -33,6 +33,8 @@ nav:
     href:           "/publications"
   - name:           "🧰Projects"
     href:           "/projects"
+  - name:           "🔧Tools"
+    href:           "/tools"
   - name:           "📄Résumé"
     href:           "/media/Jom Resume.pdf"
 

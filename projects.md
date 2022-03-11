@@ -52,6 +52,8 @@ I also made a bunch of demos in Unity for Chasm that highlight how Chasm can ren
 
 ![ovrseer preview](/images/ovrseer.png)
 
+### **ovrseer has become [BrickLayer](//github.com/prnthp/experiment-structures)!**
+
 **ovrseer** is a psychophysics experiment framework for Unity/VR that enables rapid prototyping for creating experiences. ovrseer has a finite-state-machine backbone that splits experiment into "Phases", multiple Phases into "Trials" and multiple Trials into "Blocks". Each Phase is a finite state that does something upon start (Enter()), during the game loop (tied to Unity's Update()) and at the end (OnExit()). Phases are often treated as events that change the behavior of things in the scene such as: showing a target, moving and object, start recording kinematic data, blindfold the subject, etc. . Trials, with their multiple Phases can then be repeated. And finally a chain of Trials make up a block. All of which is maintained using Unity's Scene Hierarchy, which means Phases can be drag-and-dropped, copy-pasted and moved around freely to rearrange their order.
 
 <iframe width="580" height="340" src="https://www.youtube.com/embed/XVP5OJemTsg" frameborder="0" gesture="media" allowfullscreen></iframe>
