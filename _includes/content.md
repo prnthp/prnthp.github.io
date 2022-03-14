@@ -50,6 +50,8 @@ Also works with [AEPsych](https://github.com/facebookresearch/aepsych), from the
 
 ![Haplets with a pen](images/hapletsInHand.jpg)
 
+<iframe width="100%" height="340" src="https://www.youtube.com/embed/59zq2DoJdJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Cool facts about Haplets**
 - They are wireless but have incredibly low latency (1-4 ms).
 - I wrote a semi-custom wireless protocol for them on top of ESB (Enhanced ShockBurst for the nRF SoCs from Nordic Semiconductors).
@@ -68,7 +70,7 @@ Also works with [AEPsych](https://github.com/facebookresearch/aepsych), from the
 
 The full presentation given at CHI2020 can be watched here:
 
-<iframe width="100%" height="340" src="https://www.youtube.com/embed/KKBP8giaisY" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+<iframe width="100%" height="340" src="https://www.youtube.com/embed/KKBP8giaisY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Cool facts about Chasm**
 - Chasm is leadscrew based. We had a custom tiny leadscrew made for it.
