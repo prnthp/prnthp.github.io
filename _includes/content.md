@@ -91,8 +91,11 @@ The full presentation given at CHI2020 can be watched here:
 ![ConTact Sensor](/images/contact-sensor-plaque.jpg)
 **[ConTact Sensor](//softroboticstoolkit.com/contact-sensor)** is a simple soft robotic sensor that can simultaneously sense force and area. [Soft Robotics Toolkit](//softroboticstoolkit.com/contact-sensor), [Conference Paper (IEEE RoboSoft)](//ieeexplore.ieee.org/document/8722757)
 
-![Robot Stabbing](//j.gifs.com/YvW3B0.gif)
-**[Bishop's Hand](/projects#bishops-hand)** was a project that aimed to measure limb ownership by having users play the knife game on themselves.
+<!-- ![Robot Stabbing](//j.gifs.com/YvW3B0.gif) -->
+<video width="100%" controls>
+    <source src="//user-images.githubusercontent.com/25041773/158678441-099d7942-f214-427d-b13f-5d79a10a37f1.mp4">
+</video>
+**[Bishop's Hand](/projects#bishops-hand)** was a project that aimed to measure limb ownership by having users play the knife game on themselves. The video shown is what we *should* have done.
 
 ![Prosthetic Hand](/images/prosthetichand.png)
 **[My Undergraduate Project](projects/#electric-prosthetic-hand-with-slip-sensor)** was a prosthetic hand with a fingertip sensor that could detect the onset of slip. We CNC machined almost every part of the hand ourselves on a Mazak Integrex. One of the coolest experiences I've ever had. The slip detection sensor deserved a publication of its own!
