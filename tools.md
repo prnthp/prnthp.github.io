@@ -84,7 +84,7 @@ For best results, use the .pdf in LaTeX!
 
 ---
 
-## OpenSim STL Export
+## OpenSim STL export
 So I wanted to 3D print some hand bones and pose them within SolidWorks with accurate kinematics. The best models at the time were available as OpenSim models. OpenSim uses this ancient 3D model format that isn't so friendly.
 Luckily, OpenSim has a python 2.7 API. So I wrote a script to extract those models. Yay bones!
 
@@ -100,3 +100,18 @@ Quick and dirty Unity singleton to queue up files for AWS S3 upload. Probably no
 
 **Links**
 - [🍢 GitHub Gist](//gist.github.com/prnthp/20423d8c2ade8730849766b81ee16552)
+
+---
+
+## 3D-printed Vive Tracker hand/wrist mount
+A blatant rip-off of a famous sports camera hand/body mount. Just add velcro straps!
+
+![Vive tracker mounted](//camo.githubusercontent.com/b870f88858af9384e00518aaeef4f82455b34a8d19cf3b3e3b4f1437ce64b787/687474703a2f2f692e696d6775722e636f6d2f5a693869307a612e6a7067)
+
+**Vitamins Required**
+- 1/4" - 20 TPI Screw: Any screw shorter than 0.35" should work
+- Velcro: Any hook-and-loop long enough to wrap around your hand twice should work
+
+**Links**
+- [🖨️ PrusaPrinters](//www.prusaprinters.org/prints/151838-vive-tracker-handwrist-mount)
+- [🐙 GitHub Repository (STL file)](//github.com/prnthp/vive-tracker-ghost)
