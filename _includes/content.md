@@ -21,6 +21,12 @@ I also made this sick data visualizer for the collected EMG and kinematic data.
      <source src="//user-images.githubusercontent.com/25041773/157564826-d1eea89a-9a4d-4ef1-ba22-0f7e73195a99.mp4">
 </video>
 
+And lastly, a rather unrelated, proof-of-concept of EMG + Physics Hands 🤝
+
+<video width="100%" controls>
+     <source src="//user-images.githubusercontent.com/25041773/159648690-ab742d24-0c57-467c-bf16-f396df00cb52.mp4">
+</video>
+
 *We are currently in the process of crunching our numbers from the collected data.*
 
 ---
