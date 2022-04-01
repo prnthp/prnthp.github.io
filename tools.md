@@ -7,10 +7,10 @@ A collection of tools (usually built out of frustration), both software and hard
 ## Drill bit adapter and handle for drilling/reaming 3D prints
 These adapters are for adding a small handle for your drill bits or reamers so you can hold them without using pliers that might mar the shank or having to chuck the bit in a larger tool. You can also print the handle for more ergonomic drilling.
 
-![Drill bits and adapters](//media.prusaprinters.org/media/prints/77174/images/834471_cb9eddba-7b18-4e23-93eb-f4ceb60249a1/thumbs/cover/1280x960/jpg/hero.webp)
+![Drill bits and adapters](//media.printables.com/media/prints/77174/images/834471_cb9eddba-7b18-4e23-93eb-f4ceb60249a1/thumbs/cover/1280x960/jpg/hero.webp)
 
 **Links**
-- [🖨️ Prusa Printers](//www.prusaprinters.org/prints/77174-drill-bit-adapter-and-handle-for-reaming-3d-prints)
+- [🖨️ Printables](//www.printables.com/prints/77174-drill-bit-adapter-and-handle-for-reaming-3d-prints)
 
 ---
 
@@ -113,5 +113,5 @@ A blatant rip-off of a famous sports camera hand/body mount. Just add velcro str
 - Velcro: Any hook-and-loop long enough to wrap around your hand twice should work
 
 **Links**
-- [🖨️ PrusaPrinters](//www.prusaprinters.org/prints/151838-vive-tracker-handwrist-mount)
+- [🖨️ Printables](//www.printables.com/prints/151838-vive-tracker-handwrist-mount)
 - [🐙 GitHub Repository (STL file)](//github.com/prnthp/vive-tracker-ghost)
