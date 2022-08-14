@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Mechanical Engineer by education but really a mix between a programmer, mechatronics-er, machinist and game developer by trade. I am a PhD student working with [Prof. Eric Rombokas](//rombokas.com/eric/), currently working on fabrication of soft robots, haptics and haptics using soft robots.
+I am a Mechanical Engineer by education but I'm actually a self-taught hardware hacker. I completed my PhD at the University of Washington with [Prof. Eric Rombokas](//rombokas.com/eric/) where I worked on the fabrication of soft robots, haptics and haptics using soft robots.
 
 Please entertain your eyes with a picture of me:
 
