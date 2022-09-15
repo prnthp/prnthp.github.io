@@ -101,7 +101,7 @@ How much would you trust the robot you programmed? (This robot is animated direc
 
 <hr>
 
-## Pneudraulique
+<!-- ## Pneudraulique
 
 *Made with: SolidWorks, Matlab, NIDAQ, ROS & Teensyduino*
 
@@ -110,7 +110,7 @@ Peudraulique is a blanket term for adventures into the soft-robotics space. We'r
 
 See [blog](/ramblings) for updates!
 
-<hr>
+<hr> -->
 
 ## Scalpl
 
@@ -131,8 +131,6 @@ Additionally, Scalpl can modify exported voxels directly and create lattices or 
 ![Results](/images/result1.gif){:width="250px"}
 *Voxels!*
 
-<!-- *PS: Fuck you SolidWorks API SDK* -->
-
 <hr>
 
 ## Cobalt Chromium Femoral Heads
@@ -143,7 +141,14 @@ A project under [Prof. Pairat Tangpornprasert](//www.researchgate.net/profile/Pa
 
 ![Cobalt Chromium Heads](/images/cocrheads.jpg)
 
-<!-- *PS: Fuck you Okuma's ADMAC-Parts* -->
+I also designed dies for hot forging! Fun times.
+
+![Die](/images/bdml/mold_photo.jpg)
+Finished part in the die. They used to be milled out of bar stock -- very cost-prohibitive.
+![Die Render](/images/bdml/mold_render_1.png)
+![Die Render 2](/images/bdml/mold_render_2.png)
+![Cutter Render 2](/images/bdml/trim_render.png)
+These are molds for trimming the flash that is created after forging.
 
 <hr>
 
