@@ -67,14 +67,11 @@ When you are ready to save
 ```matlab
 fig.PaperUnits = 'inches';
 fig.PaperPosition = [0 0 6 4]; % adjust this to the aspect ratio you want in your publication
+fig.PaperSize = [6 4]; % adjust this to the aspect ratio you want in your publication
 figpath = strcat('figure_',num2str(fignum));
 print(figpath,'-dpng','-r300') % or change this to 600 (dpi) for crispier figs
 print(figpath,'-depsc','-r300') % or change this to 600 (dpi) for crispier figs
-```
-
-*Optional: Use ghostscript-based [eps2pdf](//www.mathworks.com/matlabcentral/fileexchange/5782-eps2pdf) MATLAB function to generate pdf*
-```matlab
-eps2pdf(strcat(figpath,'.eps'),'/usr/local/bin/gs') % second parameter is path to ghostscript exec
+print(figpath,'-dpdf','-r300') % or change this to 600 (dpi) for crispier figs
 ```
 
 For best results, use the .pdf in LaTeX!
