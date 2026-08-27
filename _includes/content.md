@@ -3,6 +3,18 @@
 
 *The following are some highlights from my research*
 
+[**Project SuperDex**](https://projectsuperdex.com/) is an open-source simulation platform from Meta for robotic dexterous manipulation, built around a custom physics engine for complex, contact-first interactions.
+
+<video width="100%" controls>
+https://projectsuperdex.com/img/gallery/threadedrodandnut_low.mp4
+</video>
+
+I mainly worked on asset authoring pipelines, including the [SuperDex CAD Exporter](https://projectsuperdex.com/studio/docs/cad_exporter/) and some parts of [SuperDex Studio](https://projectsuperdex.com/studio/docs/overview/).
+
+![CAD Exporter](https://projectsuperdex.com/studio/img/cad_exporter/superdex_cad_exporter.jpg)
+
+---
+
 <!-- ![EMG](/images/emgKeyshot.jpg) -->
 
 **Untitled EMG Project** is an ongoing project where we are trying to learn hand kinematics from a forearm-worn EMG array. For data collection, I built a custom 8-channel EMG armband from scratch based on the ADS1299. The electrodes are 3D printed from electrically conductive TPU. The nRF-based wireless communication, based off of technology developed for our haptics projects, enable low latency (1 ms) streaming to a USB dongle. We stream 1000 Hz data directly to a Meta Quest 2 so we can collect hand tracking data and EMG signals simultaneously, all locally on the headset. This is great for deployment for user studies without the hassle of hardware setup, just plug-n-play. 
