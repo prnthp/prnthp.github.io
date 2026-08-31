@@ -6,7 +6,7 @@
 [**Project SuperDex**](https://projectsuperdex.com/) is an open-source simulation platform from Meta for robotic dexterous manipulation, built around a custom physics engine for complex, contact-first interactions.
 
 <video width="100%" controls>
-https://projectsuperdex.com/img/gallery/threadedrodandnut_low.mp4
+     <source src="//projectsuperdex.com/img/gallery/threadedrodandnut_low.mp4">
 </video>
 
 I mainly worked on asset authoring pipelines, including the [SuperDex CAD Exporter](https://projectsuperdex.com/studio/docs/cad_exporter/) and some parts of [SuperDex Studio](https://projectsuperdex.com/studio/docs/overview/).
